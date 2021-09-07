@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ My name is **Anderson Ito**, I'm a software engineer interested in Java, Scala/Spark/Kafka and AWS.<br>
+ 
+ Here you can find some of my personal projects that I play with during my spare time.
+
 <!--
 **andersonkmi/andersonkmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
